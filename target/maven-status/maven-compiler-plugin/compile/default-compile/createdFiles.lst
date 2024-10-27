@@ -1,0 +1,11 @@
+com/cathayinterview/service/imp/HttpServiceImp.class
+com/cathayinterview/CathayInterviewApplication.class
+com/cathayinterview/utilities/JsonParser.class
+com/cathayinterview/service/HttpService.class
+com/cathayinterview/entity/CurrencyEntity.class
+com/cathayinterview/model/Currency.class
+com/cathayinterview/service/CurrencyService.class
+com/cathayinterview/service/imp/CurrencyServiceImp.class
+com/cathayinterview/controller/CurrencyController.class
+com/cathayinterview/repository/CurrencyRepository.class
+com/cathayinterview/controller/CoindeckController.class

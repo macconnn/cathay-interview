@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS currency;
+CREATE TABLE currency (
+    c_id INT AUTO_INCREMENT  PRIMARY KEY,
+    code CHAR(3) NOT NULL,
+    symbol VARCHAR(255) NOT NULL,
+    rate VARCHAR(255) DEFAULT NULL,
+    description VARCHAR(255) NOT NULL,
+    rate_float DECIMAL(10, 4) NOT NULL
+);
